@@ -1,5 +1,5 @@
-straberries=50
-is_weekend=False
+straberries=70
+is_weekend=True
 print(input('is this a weekend or a week_day?'))
 if 'weekend':
     print(input('how mach straberries you have?'))
